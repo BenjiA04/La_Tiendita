@@ -1,0 +1,15 @@
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\bin\Debug\net9.0\La_Tiendita.exe
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\bin\Debug\net9.0\La_Tiendita.deps.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\bin\Debug\net9.0\La_Tiendita.runtimeconfig.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\bin\Debug\net9.0\La_Tiendita.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\bin\Debug\net9.0\La_Tiendita.pdb
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\obj\Debug\net9.0\La_Tiendita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\obj\Debug\net9.0\La_Tiendita.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\obj\Debug\net9.0\La_Tiendita.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\obj\Debug\net9.0\La_Tiendita.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\obj\Debug\net9.0\La_Tiendita.sourcelink.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\obj\Debug\net9.0\La_Tiendita.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\obj\Debug\net9.0\refint\La_Tiendita.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\obj\Debug\net9.0\La_Tiendita.pdb
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\obj\Debug\net9.0\La_Tiendita.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\5.La_Tiendita\obj\Debug\net9.0\ref\La_Tiendita.dll
