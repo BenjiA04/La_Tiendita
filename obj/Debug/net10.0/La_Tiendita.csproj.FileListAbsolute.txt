@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/La_Tiendita/bin/Debug/net10.0/La_Tiendita
+/workspaces/codespaces-blank/La_Tiendita/bin/Debug/net10.0/La_Tiendita.deps.json
+/workspaces/codespaces-blank/La_Tiendita/bin/Debug/net10.0/La_Tiendita.runtimeconfig.json
+/workspaces/codespaces-blank/La_Tiendita/bin/Debug/net10.0/La_Tiendita.dll
+/workspaces/codespaces-blank/La_Tiendita/bin/Debug/net10.0/La_Tiendita.pdb
+/workspaces/codespaces-blank/La_Tiendita/obj/Debug/net10.0/La_Tiendita.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/La_Tiendita/obj/Debug/net10.0/La_Tiendita.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/La_Tiendita/obj/Debug/net10.0/La_Tiendita.AssemblyInfo.cs
+/workspaces/codespaces-blank/La_Tiendita/obj/Debug/net10.0/La_Tiendita.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/La_Tiendita/obj/Debug/net10.0/La_Tiendita.dll
+/workspaces/codespaces-blank/La_Tiendita/obj/Debug/net10.0/refint/La_Tiendita.dll
+/workspaces/codespaces-blank/La_Tiendita/obj/Debug/net10.0/La_Tiendita.pdb
+/workspaces/codespaces-blank/La_Tiendita/obj/Debug/net10.0/La_Tiendita.genruntimeconfig.cache
+/workspaces/codespaces-blank/La_Tiendita/obj/Debug/net10.0/ref/La_Tiendita.dll
