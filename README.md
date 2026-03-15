@@ -27,7 +27,7 @@ Contiene las estructuras de datos (compuestas por listas) donde se almacenan los
 Contiene las funciones principales del programa:
 
 - RegistrarProductos.cs: Permite registrar productos en el inventario y guardarlos en un archivo .txt.
-- GestorArchivo: Se encarga de guardar los productos del inventario en un archivo .txt y cargarlos nuevamente al iniciar el sistema.
+- GestorArchivo: Se encarga de guardar los productos del inventario en un archivo llamado "RegistroProductos.txt" y cargarlos nuevamente al iniciar el sistema.
 - VerificarStock.cs: Verifica que el stock de los productos sea mayor a 0. Si el stock llega a 0, el producto se elimina automáticamente del inventario.
 También valida que la cantidad solicitada en una venta no exceda el stock disponible.
 - ActualizarProductos.cs: Permite actualizar los datos de un producto existente buscándolo por su nombre.
