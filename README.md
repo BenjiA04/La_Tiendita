@@ -1,6 +1,7 @@
 # LA TIENDA 🛒
 
-## Descripcion
+
+## Descripcion ✨
 Este proyecto consiste en un Sistema de Inventario llamado "La Tiendita", una aplicación de consola en C# que permite gestionar productos (eliminarlos y actualizarlos), 
 así como controlar su stock y generar facturas de venta para los clientes.
 
@@ -8,7 +9,8 @@ El proyecto utiliza variables, listas, métodos simples y retornables, así como
 validación de entrada de datos, evitando que el usuario introduzca valores incorrectos (por ejemplo, texto en variables numéricas). Para ello se utilizan bucles 
 while que verifican la entrada del usuario y vuelven a solicitar el dato hasta que sea válido, evitando que el programa se detenga por errores de ejecución.
 
-## Modularidad
+
+## Modularidad 📋
 El proyecto está dividido de la siguiente forma:
 
 ### Program.cs
