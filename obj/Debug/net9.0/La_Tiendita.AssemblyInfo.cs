@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("La_Tiendita")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44cb78421cbdba4552f47646958f05d919c9605e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+838d2adeb95a8af9c002460770828495c0511dc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("La_Tiendita")]
 [assembly: System.Reflection.AssemblyTitleAttribute("La_Tiendita")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
