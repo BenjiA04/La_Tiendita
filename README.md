@@ -15,7 +15,7 @@ El proyecto está dividido de la siguiente forma:
 Contiene el punto de entrada del programa y controla el flujo principal del sistema.
 
 ### UI
-- Menu.cs: Se encarga de controlar la interacción con el usuario. Contiene el menú principal del sistema y utiliza un bucle que permite al usuario seguir
+Menu.cs: Se encarga de controlar la interacción con el usuario. Contiene el menú principal del sistema y utiliza un bucle que permite al usuario seguir
 navegando entre las distintas opciones (registrar productos, listar, actualizar, eliminar, generar facturas, etc.) hasta que decida salir del programa.
 
 ### models
